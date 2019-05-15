@@ -1,0 +1,17 @@
+{
+  "name": "l2-norm",
+  "description": "Compute the euclidian/l2 norm of a vector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "eveningkid/l2-norm",
+  "author": {
+    "name": "Arnaud Dellinger",
+    "url": "https://github.com/eveningkid"
+  },
+  "keywords": [
+    "euclidian",
+    "l2",
+    "norm"
+  ],
+  "license": "MIT"
+}
